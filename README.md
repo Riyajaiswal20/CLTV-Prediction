@@ -1,7 +1,8 @@
-🔍 CLTV Prediction & Customer Segmentation for Personalized Insurance Policies
+# 🔍 CLTV Prediction & Customer Segmentation for Personalized Insurance Policies
 
 
-A machine learning-driven project designed to predict Customer Lifetime Value (CLTV) and segment insurance customers for tailored policy offerings. This project was developed for Vahan Bima, a motor vehicle insurance provider, using regression and clustering techniques to optimize marketing strategies, boost customer retention, and enhance profitability within the insurance industry.
+A machine learning-driven project designed to predict Customer Lifetime Value (CLTV) and segment insurance customers for tailored policy offerings. This project was developed for Vahan Bima, a motor vehicle insurance provider, using regression and clustering techniques to optimize marketing strategies, boost customer retention, and enhance profitability within the insurance industry   .
+
 
 📌 Problem Statement Traditional insurance marketing tends to use a generic approach, resulting in ineffective resource distribution and missed opportunities. Vahan Bima aimed to enhance its offerings by:
 Predicting the long-term value (CLTV) of its customers
